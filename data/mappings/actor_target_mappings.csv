@@ -1,0 +1,36 @@
+at3_at6_code,meaning,group2,group3,group4
+REB,rebels,armed,armed,military
+MIL,military,armed,armed,military
+GOV,government,unarmed,unarmed,government
+ETH,ethnic,unarmed,protectable,civilian
+REL,religious,unarmed,protectable,civilian
+COP,police forces,armed,armed,military
+JUD,judiciary,unarmed,unarmed,political
+OPP,political opposition,unarmed,unarmed,political
+LLY,regime loyalists,unarmed,unarmed,government
+ACT,activists,unarmed,protectable,political
+NON,non-aligned third party,armed,armed,military
+SPY,state intelligence,armed,armed,military
+UAF,unidentified armed forces,armed,armed,military
+UNS,unidentified unarmed non-state actors,unarmed,protectable,civilian
+NGO,non-governmental organisation,unarmed,protectable,political
+BUS,business,unarmed,protectable,civilian
+CVL,civilian group,unarmed,protectable,civilian
+IND,civilian individual,unarmed,protectable,civilian
+EDU,educators,unarmed,protectable,civilian
+STU,students,unarmed,protectable,civilian
+YTH,youth,unarmed,protectable,civilian
+ELI,elites,unarmed,protectable,civilian
+LAB,labour,unarmed,protectable,civilian
+LEG,legislature,unarmed,unarmed,political
+PTY,political party,unarmed,unarmed,political
+MED,media,unarmed,protectable,civilian
+REF,refugees,unarmed,protectable,civilian
+IGO,inter-governmental,unarmed,unarmed,political
+NGM,non-governmental movement,unarmed,protectable,political
+MNC ,multinational cooperation,unarmed,protectable,civilian
+INT,international actors,unarmed,unarmed,political
+TOP,top officials,unarmed,unarmed,political
+MID,mid-lower level officials,unarmed,unarmed,political
+HAR,hardliners,unarmed,unarmed,political
+MOD,moderates,unarmed,unarmed,political
