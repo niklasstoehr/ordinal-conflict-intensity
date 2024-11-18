@@ -1,0 +1,297 @@
+action_code,action_goldstein,event_code,event_goldstein,event_name,action_name,action_name_short,action_goldstein_rank
+1,0,10,0,Make statement- not specified below,make public statement,make public statement,12
+1,0,11,-0.1,Decline comment,make public statement,make public statement,12
+1,0,12,-0.4,Make pessimistic comment,make public statement,make public statement,12
+1,0,13,0.4,Make optimistic comment,make public statement,make public statement,12
+1,0,14,0,Consider policy option,make public statement,make public statement,12
+1,0,15,0,Acknowledge or claim responsibility,make public statement,make public statement,12
+1,0,16,-2,Deny responsibility,make public statement,make public statement,12
+1,0,17,0,Engage in symbolic act,make public statement,make public statement,12
+1,0,18,3.4,Make empathetic comment,make public statement,make public statement,12
+1,0,19,3.4,Express accord,make public statement,make public statement,12
+2,3,20,3,Make an appeal or request- not specified below,appeal,appeal,14
+2,3,21,3.4,Appeal for material cooperation- not specified below,appeal,appeal,14
+2,3,211,3.4,Appeal for economic cooperation,appeal,appeal,14
+2,3,212,3.4,Appeal for military cooperation,appeal,appeal,14
+2,3,213,3.4,Appeal for judicial cooperation,appeal,appeal,14
+2,3,214,3.4,Appeal for intelligence,appeal,appeal,14
+2,3,22,3.2,Appeal for diplomatic cooperation (such as policy support),appeal,appeal,14
+2,3,23,3.4,Appeal for aid- not specified below,appeal,appeal,14
+2,3,231,3.4,Appeal for economic aid,appeal,appeal,14
+2,3,232,3.4,Appeal for military aid,appeal,appeal,14
+2,3,233,3.4,Appeal for humanitarian aid,appeal,appeal,14
+2,3,234,3.4,Appeal for military protection or peacekeeping,appeal,appeal,14
+2,3,24,-0.3,Appeal for political reform- not specified below,appeal,appeal,14
+2,3,241,-0.3,Appeal for change in leadership,appeal,appeal,14
+2,3,242,-0.3,Appeal for policy change,appeal,appeal,14
+2,3,243,-0.3,Appeal for rights,appeal,appeal,14
+2,3,244,-0.3,Appeal for change in institutions,appeal,appeal,14
+2,3,25,-0.3,Appeal to yield- not specified below,appeal,appeal,14
+2,3,251,-0.3,Appeal for easing of administrative sanctions,appeal,appeal,14
+2,3,252,-0.3,Appeal for easing of political dissent,appeal,appeal,14
+2,3,253,-0.3,Appeal for release of persons or property,appeal,appeal,14
+2,3,254,-0.3,Appeal for easing of economic sanctions,appeal,appeal,14
+2,3,255,-0.3,Appeal for target to allow international involvement (non-mediation),appeal,appeal,14
+2,3,256,-0.3,Appeal for de-escalation of military engagement,appeal,appeal,14
+2,3,26,4,Appeal to others to meet or negotiate,appeal,appeal,14
+2,3,27,4,Appeal to others to settle dispute,appeal,appeal,14
+2,3,28,4,Appeal to engage in or accept mediation,appeal,appeal,14
+3,4,30,4,Express intent to cooperate- not specified below,express intent to cooperate,express intent cooperate,16
+3,4,31,5.2,Express intent to engage in material cooperation- not specified below,express intent to cooperate,express intent cooperate,16
+3,4,311,5.2,Express intent to cooperate economically,express intent to cooperate,express intent cooperate,16
+3,4,312,5.2,Express intent to cooperate militarily,express intent to cooperate,express intent cooperate,16
+3,4,313,5.2,Express intent to cooperate on judicial matters,express intent to cooperate,express intent cooperate,16
+3,4,314,5.2,Express intent to cooperate on intelligence,express intent to cooperate,express intent cooperate,16
+3,4,32,4.5,Express intent to engage in diplomatic cooperation (such as policy support),express intent to cooperate,express intent cooperate,16
+3,4,33,5.2,Express intent to provide material aid- not specified below,express intent to cooperate,express intent cooperate,16
+3,4,331,5.2,Express intent to provide economic aid,express intent to cooperate,express intent cooperate,16
+3,4,332,5.2,Express intent to provide military aid,express intent to cooperate,express intent cooperate,16
+3,4,333,5.2,Express intent to provide humanitarian aid,express intent to cooperate,express intent cooperate,16
+3,4,334,6,Express intent to provide military protection or peacekeeping,express intent to cooperate,express intent cooperate,16
+3,4,34,7,Express intent to institute political reform- not specified below,express intent to cooperate,express intent cooperate,16
+3,4,341,7,Express intent to change leadership,express intent to cooperate,express intent cooperate,16
+3,4,342,7,Express intent to change policy,express intent to cooperate,express intent cooperate,16
+3,4,343,7,Express intent to provide rights,express intent to cooperate,express intent cooperate,16
+3,4,344,7,Express intent to change institutions,express intent to cooperate,express intent cooperate,16
+3,4,35,7,Express intent to yield- not specified below,express intent to cooperate,express intent cooperate,16
+3,4,351,7,Express intent to ease administrative sanctions,express intent to cooperate,express intent cooperate,16
+3,4,352,7,Express intent to ease popular dissent,express intent to cooperate,express intent cooperate,16
+3,4,353,7,Express intent to release persons or property,express intent to cooperate,express intent cooperate,16
+3,4,354,7,Express intent to ease economic sanctions,express intent to cooperate,express intent cooperate,16
+3,4,355,7,Express intent to allow international involvement (non-mediation),express intent to cooperate,express intent cooperate,16
+3,4,356,7,Express intent to de-escalate military engagement,express intent to cooperate,express intent cooperate,16
+3,4,36,4,Express intent to meet or negotiate,express intent to cooperate,express intent cooperate,16
+3,4,37,5,Express intent to settle dispute,express intent to cooperate,express intent cooperate,16
+3,4,38,7,Express intent to accept mediation,express intent to cooperate,express intent cooperate,16
+3,4,39,5,Express intent to mediate,express intent to cooperate,express intent cooperate,16
+4,1,40,1,Consult- not specified below,consult,consult,13
+4,1,41,1,Discuss by telephone,consult,consult,13
+4,1,42,1.9,Make a visit,consult,consult,13
+4,1,43,2.8,Host a visit,consult,consult,13
+4,1,44,2.5,Meet at a location,consult,consult,13
+4,1,45,5,Mediate,consult,consult,13
+4,1,46,7,Engage in negotiation,consult,consult,13
+5,3.5,50,3.5,Engage in diplomatic cooperation- not specified below,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,51,3.4,Praise or endorse,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,52,3.5,Defend verbally,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,53,3.8,Rally support on behalf of,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,54,6,Grant diplomatic recognition,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,55,7,Apologize,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,56,7,Forgive,engage in diplomatic cooperation,engage diplomatic cooperation,15
+5,3.5,57,8,Sign formal agreement,engage in diplomatic cooperation,engage diplomatic cooperation,15
+6,6,60,6,Engage in material cooperation- not specified below,engage in material cooperation,engage material cooperation,18
+6,6,61,6.4,Cooperate economically,engage in material cooperation,engage material cooperation,18
+6,6,62,7.4,Cooperate militarily,engage in material cooperation,engage material cooperation,18
+6,6,63,7.4,Engage in judicial cooperation,engage in material cooperation,engage material cooperation,18
+6,6,64,7,Share intelligence or information,engage in material cooperation,engage material cooperation,18
+7,7,70,7,Provide aid- not specified below,provide aid,provide aid,19
+7,7,71,7.4,Provide economic aid,provide aid,provide aid,19
+7,7,72,8.3,Provide military aid,provide aid,provide aid,19
+7,7,73,7.4,Provide humanitarian aid,provide aid,provide aid,19
+7,7,74,8.5,Provide military protection or peacekeeping,provide aid,provide aid,19
+7,7,75,7,Grant asylum,provide aid,provide aid,19
+8,5,80,5,Yield- not specified below,yield,yield,17
+8,5,81,5,Ease administrative sanctions- not specified below,yield,yield,17
+8,5,811,5,Ease restrictions on political freedoms,yield,yield,17
+8,5,812,5,Ease ban on political parties or politicians,yield,yield,17
+8,5,813,5,Ease curfew,yield,yield,17
+8,5,814,5,Ease state of emergency or martial law,yield,yield,17
+8,5,82,5,Ease political dissent,yield,yield,17
+8,5,83,5,Accede to requests or demands for political reform- not specified below,yield,yield,17
+8,5,831,5,Accede to demands for change in leadership,yield,yield,17
+8,5,832,5,Accede to demands for change in policy,yield,yield,17
+8,5,833,5,Accede to demands for rights,yield,yield,17
+8,5,834,5,Accede to demands for change in institutions,yield,yield,17
+8,5,84,7,release- not specified below,yield,yield,17
+8,5,841,7,release person(s),yield,yield,17
+8,5,842,7,release property,yield,yield,17
+8,5,85,7,Ease economic sanctions,yield,yield,17
+8,5,86,9,Allow international involvement- not specified below,yield,yield,17
+8,5,861,9,Receive deployment of peacekeepers,yield,yield,17
+8,5,862,9,Receive inspectors,yield,yield,17
+8,5,863,9,Allow humanitarian access,yield,yield,17
+8,5,87,9,De-escalate military engagement,yield,yield,17
+8,5,871,9,Declare truce,yield,yield,17
+8,5,872,9,Ease military blockade,yield,yield,17
+8,5,873,9,Demobilize armed forces,yield,yield,17
+8,5,874,10,Retreat or surrender militarily,yield,yield,17
+9,-2,90,-2,Investigate- not specified below,investigate,investigate,11
+9,-2,91,-2,Investigate crime,investigate,investigate,11
+9,-2,92,-2,Investigate human rights abuses,investigate,investigate,11
+9,-2,93,-2,Investigate military action,investigate,investigate,11
+9,-2,94,-2,Investigate war crimes,investigate,investigate,11
+10,-5,100,-5,Demand- not specified below,demand,demand,7
+10,-5,101,-5,Demand material cooperation- not specified below,demand,demand,7
+10,-5,1011,-5,Demand economic cooperation,demand,demand,7
+10,-5,1012,-5,Demand military cooperation,demand,demand,7
+10,-5,1013,-5,Demand judicial cooperation,demand,demand,7
+10,-5,1014,-5,Demand intelligence cooperation,demand,demand,7
+10,-5,102,-5,Demand diplomatic cooperation (such as policy support),demand,demand,7
+10,-5,103,-5,Demand material aid- not specified below,demand,demand,7
+10,-5,1031,-5,Demand economic aid,demand,demand,7
+10,-5,1032,-5,Demand military aid,demand,demand,7
+10,-5,1033,-5,Demand humanitarian aid,demand,demand,7
+10,-5,1034,-5,Demand military protection or peacekeeping,demand,demand,7
+10,-5,104,-5,Demand political reform- not specified below,demand,demand,7
+10,-5,1041,-5,Demand change in leadership,demand,demand,7
+10,-5,1042,-5,Demand policy change,demand,demand,7
+10,-5,1043,-5,Demand rights,demand,demand,7
+10,-5,1044,-5,Demand change in institutions,demand,demand,7
+10,-5,105,-5,Demand that target yields- not specified below,demand,demand,7
+10,-5,1051,-5,Demand easing of administrative sanctions,demand,demand,7
+10,-5,1052,-5,Demand easing of political dissent,demand,demand,7
+10,-5,1053,-5,Demand release of persons or property,demand,demand,7
+10,-5,1054,-5,Demand easing of economic sanctions,demand,demand,7
+10,-5,1055,-5,Demand that target allows international involvement (non-mediation),demand,demand,7
+10,-5,1056,-5,Demand de-escalation of military engagement,demand,demand,7
+10,-5,106,-5,Demand meeting,demand,demand,7
+10,-5,107,-5,Demand settling of dispute,demand,demand,7
+10,-5,108,-5,Demand mediation,demand,demand,7
+11,-2,110,-2,Disapprove- not specified below,disapprove,disapprove,10
+11,-2,111,-2,Criticize or denounce,disapprove,disapprove,10
+11,-2,112,-2,Accuse- not specified below,disapprove,disapprove,10
+11,-2,1121,-2,Accuse of crime,disapprove,disapprove,10
+11,-2,1122,-2,Accuse of human rights abuses,disapprove,disapprove,10
+11,-2,1123,-2,Accuse of aggression,disapprove,disapprove,10
+11,-2,1124,-2,Accuse of war crimes,disapprove,disapprove,10
+11,-2,1125,-2,Accuse of espionage,disapprove,disapprove,10
+11,-2,113,-2,Rally opposition against,disapprove,disapprove,10
+11,-2,114,-2,Complain officially,disapprove,disapprove,10
+11,-2,115,-2,Bring lawsuit against,disapprove,disapprove,10
+11,-2,116,-2,Find guilty or liable (legally),disapprove,disapprove,10
+12,-4,120,-4,Reject- not specified below,reject,reject,9
+12,-4,121,-4,Reject material cooperation,reject,reject,9
+12,-4,1211,-4,Reject economic cooperation,reject,reject,9
+12,-4,1212,-4,Reject military cooperation,reject,reject,9
+12,-4,122,-4,Reject request or demand for material aid- not specified below,reject,reject,9
+12,-4,1221,-4,Reject request for economic aid,reject,reject,9
+12,-4,1222,-4,Reject request for military aid,reject,reject,9
+12,-4,1223,-4,Reject request for humanitarian aid,reject,reject,9
+12,-4,1224,-4,Reject request for military protection or peacekeeping,reject,reject,9
+12,-4,123,-4,Reject request or demand for political reform- not specified below,reject,reject,9
+12,-4,1231,-4,Reject request for change in leadership,reject,reject,9
+12,-4,1232,-4,Reject request for policy change,reject,reject,9
+12,-4,1233,-4,Reject request for rights,reject,reject,9
+12,-4,1234,-4,Reject request for change in institutions,reject,reject,9
+12,-4,124,-4,Refuse to yield- not specified below,reject,reject,9
+12,-4,1241,-4,Refuse to ease administrative sanctions,reject,reject,9
+12,-4,1242,-4,Refuse to ease popular dissent,reject,reject,9
+12,-4,1243,-4,Refuse to release persons or property,reject,reject,9
+12,-4,1244,-4,Refuse to ease economic sanctions,reject,reject,9
+12,-4,1245,-4,Refuse to allow international involvement (non mediation),reject,reject,9
+12,-4,1246,-4,Refuse to de-escalate military engagement,reject,reject,9
+12,-4,125,-5,Reject proposal to meet,reject,reject,9
+12,-4,126,-5,Reject mediation,reject,reject,9
+12,-4,127,-5,Reject plan,reject,reject,9
+12,-4,128,-5,Defy norms,reject,reject,9
+12,-4,129,-5,Veto,reject,reject,9
+13,-6,130,-4.4,Threaten- not specified below,threaten,threaten,6
+13,-6,131,-5.8,Threaten non-force- not specified below,threaten,threaten,6
+13,-6,1311,-5.8,Threaten to reduce or stop aid,threaten,threaten,6
+13,-6,1312,-5.8,Threaten with sanctions,threaten,threaten,6
+13,-6,1313,-5.8,Threaten to reduce or break relations,threaten,threaten,6
+13,-6,132,-5.8,Threaten with administrative sanctions- not specified below,threaten,threaten,6
+13,-6,1321,-5.8,Threaten with restrictions on political freedoms,threaten,threaten,6
+13,-6,1322,-5.8,Threaten to ban political parties or politicians,threaten,threaten,6
+13,-6,1323,-5.8,Threaten to impose curfew,threaten,threaten,6
+13,-6,1324,-5.8,Threaten to impose state of emergency or martial law,threaten,threaten,6
+13,-6,133,-5.8,Threaten with political dissent,threaten,threaten,6
+13,-6,134,-5.8,Threaten to halt negotiations,threaten,threaten,6
+13,-6,135,-5.8,Threaten to halt mediation,threaten,threaten,6
+13,-6,136,-7,Threaten to halt international involvement (non-mediation),threaten,threaten,6
+13,-6,137,-7,Threaten with repression,threaten,threaten,6
+13,-6,138,-7,Threaten with military force- not specified below,threaten,threaten,6
+13,-6,1381,-7,Threaten blockade,threaten,threaten,6
+13,-6,1382,-7,Threaten occupation,threaten,threaten,6
+13,-6,1383,-7,Threaten unconventional violence,threaten,threaten,6
+13,-6,1384,-7,Threaten conventional attack,threaten,threaten,6
+13,-6,1385,-7,Threaten attack with WMD,threaten,threaten,6
+13,-6,139,-7,Give ultimatum,threaten,threaten,6
+14,-6.5,140,-6.5,Engage in political dissent- not specified below,protest,protest,5
+14,-6.5,141,-6.5,Demonstrate or rally- not specified below,protest,protest,5
+14,-6.5,1411,-6.5,Demonstrate for leadership change,protest,protest,5
+14,-6.5,1412,-6.5,Demonstrate for policy change,protest,protest,5
+14,-6.5,1413,-6.5,Demonstrate for rights,protest,protest,5
+14,-6.5,1414,-6.5,Demonstrate for change in institutions,protest,protest,5
+14,-6.5,142,-6.5,Conduct hunger strike- not specified below,protest,protest,5
+14,-6.5,1421,-6.5,Conduct hunger strike for leadership change,protest,protest,5
+14,-6.5,1422,-6.5,Conduct hunger strike for policy change,protest,protest,5
+14,-6.5,1423,-6.5,Conduct hunger strike for rights,protest,protest,5
+14,-6.5,1424,-6.5,Conduct hunger strike for change in institutions,protest,protest,5
+14,-6.5,143,-6.5,Conduct strike or boycott- not specified below,protest,protest,5
+14,-6.5,1431,-6.5,Conduct strike or boycott for leadership change,protest,protest,5
+14,-6.5,1432,-6.5,Conduct strike or boycott for policy change,protest,protest,5
+14,-6.5,1433,-6.5,Conduct strike or boycott for rights,protest,protest,5
+14,-6.5,1434,-6.5,Conduct strike or boycott for change in institutions,protest,protest,5
+14,-6.5,144,-7.5,Obstruct passage,protest,protest,5
+14,-6.5,1441,-7.5,Obstruct passage to demand leadership change,protest,protest,5
+14,-6.5,1442,-7.5,Obstruct passage to demand policy change,protest,protest,5
+14,-6.5,1443,-7.5,Obstruct passage to demand rights,protest,protest,5
+14,-6.5,1444,-7.5,Obstruct passage to demand change in institutions,protest,protest,5
+14,-6.5,145,-7.5,Protest violently,protest,protest,5
+14,-6.5,1451,-7.5,Engage in violent protest for leadership change,protest,protest,5
+14,-6.5,1452,-7.5,Engage in violent protest for policy change,protest,protest,5
+14,-6.5,1453,-7.5,Engage in violent protest for rights,protest,protest,5
+14,-6.5,1454,-7.5,Engage in violent protest for change in institutions,protest,protest,5
+15,-7.2,150,-7.2,Demonstrate military or police power- not specified below,exhibit force posture,exhibit force posture,3
+15,-7.2,151,-7.2,Increase police alert status,exhibit force posture,exhibit force posture,3
+15,-7.2,152,-7.2,Increase military alert status,exhibit force posture,exhibit force posture,3
+15,-7.2,153,-7.2,Mobilize or increase police power,exhibit force posture,exhibit force posture,3
+15,-7.2,154,-7.2,Mobilize or increase armed forces,exhibit force posture,exhibit force posture,3
+15,-7.2,155,-7.2,Mobilize or increase cyber-forces,exhibit force posture,exhibit force posture,3
+16,-4,160,-4,Reduce relations- not specified below,reduce relations,reduce relations,8
+16,-4,161,-4,Reduce or break diplomatic relations,reduce relations,reduce relations,8
+16,-4,162,-5.6,Reduce or stop material aid- not specified below,reduce relations,reduce relations,8
+16,-4,1621,-5.6,Reduce or stop economic assistance,reduce relations,reduce relations,8
+16,-4,1622,-5.6,Reduce or stop military assistance,reduce relations,reduce relations,8
+16,-4,1623,-5.6,Reduce or stop humanitarian assistance,reduce relations,reduce relations,8
+16,-4,163,-8,Impose embargo,reduce relations,reduce relations,8
+16,-4,164,-7,Halt negotiations,reduce relations,reduce relations,8
+16,-4,165,-6.5,Halt mediation,reduce relations,reduce relations,8
+16,-4,166,-7,Expel or withdraw- not specified below,reduce relations,reduce relations,8
+16,-4,1661,-7,Expel or withdraw peacekeepers,reduce relations,reduce relations,8
+16,-4,1662,-7,Expel or withdraw inspectors,reduce relations,reduce relations,8
+16,-4,1663,-7,Expel or withdraw aid agencies,reduce relations,reduce relations,8
+17,-7,170,-7,Coerce- not specified below,coerce,coerce,4
+17,-7,171,-9.2,Seize or damage property- not specified below,coerce,coerce,4
+17,-7,1711,-9.2,Confiscate property,coerce,coerce,4
+17,-7,1712,-9.2,Destroy property,coerce,coerce,4
+17,-7,172,-5,Impose administrative sanctions- not specified below,coerce,coerce,4
+17,-7,1721,-5,Impose restrictions on political freedoms,coerce,coerce,4
+17,-7,1722,-5,Ban political parties or politicians,coerce,coerce,4
+17,-7,1723,-5,Impose curfew,coerce,coerce,4
+17,-7,1724,-5,Impose state of emergency or martial law,coerce,coerce,4
+17,-7,173,-5,Arrest,coerce,coerce,4
+17,-7,174,-5,Expel or deport individuals,coerce,coerce,4
+17,-7,175,-9,Use tactics of violent repression,coerce,coerce,4
+17,-7,176,-9,Attack cybernetically,coerce,coerce,4
+18,-9,180,-9,Use unconventional violence- not specified below,assault,assault,2
+18,-9,181,-9,Abduct,assault,assault,2
+18,-9,182,-9.5,Physically assault- not specified below,assault,assault,2
+18,-9,1821,-9,Sexually assault,assault,assault,2
+18,-9,1822,-9,Torture,assault,assault,2
+18,-9,1823,-10,Kill by physical assault,assault,assault,2
+18,-9,183,-10,Conduct suicide,assault,assault,2
+18,-9,1831,-10,Carry out suicide bombing,assault,assault,2
+18,-9,1832,-10,Carry out vehicular bombing,assault,assault,2
+18,-9,1833,-10,Carry out roadside bombing,assault,assault,2
+18,-9,1834,-10,Carry out location bombing,assault,assault,2
+18,-9,184,-8,Use as human shield,assault,assault,2
+18,-9,185,-8,Attempt to assassinate,assault,assault,2
+18,-9,186,-10,Assassinate,assault,assault,2
+19,-10,190,-10,Use conventional military force- not specified below,fight,fight,1
+19,-10,191,-9.5,Impose blockade,fight,fight,1
+19,-10,192,-9.5,Occupy territory,fight,fight,1
+19,-10,193,-10,Fight with small arms and light weapons,fight,fight,1
+19,-10,194,-10,Fight with artillery and tanks,fight,fight,1
+19,-10,195,-10,Employ aerial weapons- not specified below,fight,fight,1
+19,-10,1951,-10,Employ precision-guided aerial munitions,fight,fight,1
+19,-10,1952,-10,Employ remotely piloted aerial munitions,fight,fight,1
+19,-10,196,-9.5,Violate ceasefire,fight,fight,1
+20,-10,200,-10,Use unconventional mass violence- not specified below,use unconventional mass violence,unconventional mass violence,0
+20,-10,201,-9.5,Engage in mass expulsion,use unconventional mass violence,unconventional mass violence,0
+20,-10,202,-10,Engage in mass killings,use unconventional mass violence,unconventional mass violence,0
+20,-10,203,-10,Engage in ethnic cleansing,use unconventional mass violence,unconventional mass violence,0
+20,-10,204,-10,Use weapons of mass destruction- not specified below,use unconventional mass violence,unconventional mass violence,0
+20,-10,2041,-10,Use chemical,use unconventional mass violence,unconventional mass violence,0
+20,-10,2042,-10,Detonate nuclear weapons,use unconventional mass violence,unconventional mass violence,0

@@ -1,0 +1,5 @@
+group2,ranking2,group3,ranking3,group4,ranking4
+armed,0,armed,0,military,0
+unarmed,1,unarmed,1,government,1
+,,protectable,2,civilian,3
+,,,,political,2

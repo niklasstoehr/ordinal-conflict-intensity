@@ -1,0 +1,12 @@
+[paths]
+gtrends = "data/gtrends"
+navco = "data/navco"
+mappings = "data/mappings"
+plots = "results/plots"
+models = "results/models"
+latents = "results/latents"
+intrinsic = "results/intrinsic"
+optimal_c = "results/optimal_c"
+results = "results"
+
+
